@@ -1,0 +1,6 @@
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.csproj.AssemblyReference.cache
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.AssemblyInfoInputs.cache
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.AssemblyInfo.cs
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.csproj.CoreCompileInputs.cache
+C:\Users\drula\source\repos\VissmaTest\VissmaTest\obj\Debug\net8.0\VismaTest.sourcelink.json
